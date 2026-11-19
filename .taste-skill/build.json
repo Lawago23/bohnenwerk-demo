@@ -1,0 +1,11 @@
+{
+ "page": "index.html",
+ "url": null,
+ "root": null,
+ "kind": "place",
+ "category": "Café und Rösterei",
+ "primary": "Get directions",
+ "rounds": 3,
+ "start": "2026-11-19T12:02:28.390Z",
+ "by": "gate.mjs --start"
+}

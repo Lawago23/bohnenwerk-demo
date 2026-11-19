@@ -1,0 +1,20 @@
+{
+  "palettes": [
+    "chalk-tomato"
+  ],
+  "types": [
+    "nunito"
+  ],
+  "dealt": [
+    "nunito",
+    "source-serif",
+    "instrument-sans"
+  ],
+  "moments": [
+    {
+      "id": "photo-chapters",
+      "at": "2026-11-19T12:02:28.480Z",
+      "seed": "ca69c76c"
+    }
+  ]
+}
